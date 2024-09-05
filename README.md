@@ -15,6 +15,7 @@ Média de satisfação por função:
 
 Média salarial por função:
 
-![image](https://github.com/user-attachments/assets/755dfaf9-d6b8-439f-8bac-50cf0d484ae1)
+![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
+
 
 
