@@ -7,7 +7,7 @@ A empresa está buscando compreender melhor o perfil e o desempenho de seus func
 
 ### Questões de Negócio Investigadas
 1.	Satisfação por Função:
-2.	
+
 Média de Satisfação e Salário por Função: A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
 
 Média de satisfação por função:
