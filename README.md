@@ -24,7 +24,7 @@ Média salarial por função:
 
 - Top 10 Funcionários com Maior Salário: 
 
-Identificar os funcionários com os maiores salários e suas funções:
+A empresa quer saber quais são os 10 funcionários com os maiores salários e suas funções:
 
 ![image](https://github.com/user-attachments/assets/7dc6a3d2-08a6-466c-88b5-aab49b536a27)
 
