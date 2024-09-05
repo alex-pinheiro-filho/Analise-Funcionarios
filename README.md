@@ -12,7 +12,8 @@ Média de Satisfação e Salário por Função: A empresa quer entender como a s
 
 Média de satisfação por função:
 
-![image](https://github.com/user-attachments/assets/bd1de682-8763-4ed0-9e0c-74f37d1649c7)
+![image](https://github.com/user-attachments/assets/dd469758-cb44-4203-bc20-c365e88ef714)
+
 
 Média salarial por função:
 
