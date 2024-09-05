@@ -6,9 +6,11 @@ A empresa está buscando compreender melhor o perfil e o desempenho de seus func
 
 
 ### Questões de Negócio Investigadas
-1.	#### Satisfação por Função:
+#### - Satisfação por Função:
 
-Média de Satisfação e Salário por Função: A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
+- Média de Satisfação e Salário por Função: 
+
+A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
 
 Média de satisfação por função:
 
@@ -20,7 +22,14 @@ Média salarial por função:
 ![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
 
 
-#### 10 Funcionários com Maior Salário
+- Top 10 Funcionários com Maior Salário: 
+
+Identificar os funcionários com os maiores salários e suas funções:
+
+![image](https://github.com/user-attachments/assets/7dc6a3d2-08a6-466c-88b5-aab49b536a27)
+
+
+
 
 
 
