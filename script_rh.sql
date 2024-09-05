@@ -1,6 +1,15 @@
 USE rh;
 SELECT * FROM datasetrh;
 
+
+SELECT 
+	   COUNT(Id_Funcionario) IS NULL AS Ids_Nulos,
+       COUNT(Id_Funcionario) AS Total_Registros,
+	   COUNT(DISTINCT Id_Funcionario) AS Total_Registros_Unicos
+FROM datasetrh;
+
+-- ------------------------------------------------------------------------------------------------------
+-- MÉDIA DE SATISFAÇÃO POR FUNÇÃO, SALÁRIO POR FUNÇÃO E 10 MAIORES SALÁRIOS
 -- MÉDIA SATISFAÇÃO FUNÇÃO
 
 SELECT 
