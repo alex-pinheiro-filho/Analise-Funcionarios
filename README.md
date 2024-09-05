@@ -10,9 +10,11 @@ A empresa está buscando compreender melhor o perfil e o desempenho de seus func
 o	Média de Satisfação e Salário por Função: A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
 
 Média de satisfação por função:
+
 ![image](https://github.com/user-attachments/assets/bd1de682-8763-4ed0-9e0c-74f37d1649c7)
 
 Média salarial por função:
+
 ![image](https://github.com/user-attachments/assets/755dfaf9-d6b8-439f-8bac-50cf0d484ae1)
 
 
