@@ -25,6 +25,7 @@ Para apresentar essas questões ao cliente, foi desenvolvido um dashboard intera
 ![image](https://github.com/user-attachments/assets/f75c7e0c-9df5-4762-8e59-a1013cde2689) - - - - - - - - ![image](https://github.com/user-attachments/assets/b394f402-bb0f-49dc-ab00-2bfb4061988a)
 
 
+![image](https://github.com/user-attachments/assets/40a36b41-1a6d-415a-808d-33f9295d7de2)
 
 
 
