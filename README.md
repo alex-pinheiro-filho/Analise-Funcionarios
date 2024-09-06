@@ -20,12 +20,11 @@ A empresa quer saber quais são os 10 funcionários com os maiores salários e s
 
 ![image](https://github.com/user-attachments/assets/7dc6a3d2-08a6-466c-88b5-aab49b536a27)
 
-Para apresentar essas questões ao cliente, foi desenvolvido um dashboard interativo que mostra todos esses dados filtrados de acordo com sua necessidade.
+Para apresentar essas questões ao cliente, desenvolvi um dashboard interativo que mostra todos esses dados filtrados de acordo com sua necessidade.
 
-![image](https://github.com/user-attachments/assets/f75c7e0c-9df5-4762-8e59-a1013cde2689) - - - - - - - - ![image](https://github.com/user-attachments/assets/b394f402-bb0f-49dc-ab00-2bfb4061988a)
+![image](https://github.com/user-attachments/assets/930bc0c7-c9b3-480b-98aa-27ef6225534e)
 
-
-![image](https://github.com/user-attachments/assets/40a36b41-1a6d-415a-808d-33f9295d7de2)
+![image](https://github.com/user-attachments/assets/cdc8e28e-e973-4b2a-8281-3c26b8e5096d)
 
 
 
