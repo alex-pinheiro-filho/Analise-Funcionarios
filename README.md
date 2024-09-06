@@ -10,12 +10,11 @@ A empresa quer entender como a satisfação no trabalho e os salários variam en
 
 Média de satisfação por função:
 
-![image](https://github.com/user-attachments/assets/dd469758-cb44-4203-bc20-c365e88ef714)
+![image](https://github.com/user-attachments/assets/dd469758-cb44-4203-bc20-c365e88ef714)       ![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
 
 
 Média salarial por função:
 
-![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
 
 
 - Top 10 Funcionários com Maior Salário: 
