@@ -1,14 +1,10 @@
-# Analise dos funcionários.
-
-#### Problema de Negócio
+# Problema de Negócio.
 
 A empresa está buscando compreender melhor o perfil e o desempenho de seus funcionários, com o objetivo de tomar decisões estratégicas que possam melhorar a satisfação no trabalho, otimizar a alocação de recursos e identificar áreas para o desenvolvimento de talentos. As questões investigadas focam em várias dimensões do ambiente de trabalho, incluindo satisfação, envolvimento, desempenho, experiência e treinamentos, com ênfase na relação dessas variáveis com a remuneração.
 
 
 ### Questões de Negócio Investigadas
-#### - Satisfação por Função:
-
-- Média de Satisfação e Salário por Função: 
+- Satisfação e salário por função: 
 
 A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
 
@@ -27,6 +23,7 @@ Média salarial por função:
 A empresa quer saber quais são os 10 funcionários com os maiores salários e suas funções:
 
 ![image](https://github.com/user-attachments/assets/7dc6a3d2-08a6-466c-88b5-aab49b536a27)
+
 
 
 
