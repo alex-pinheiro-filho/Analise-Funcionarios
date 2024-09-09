@@ -98,21 +98,6 @@ Analisar como a satisfação se distribui entre diferentes níveis de envolvimen
 
 
 
------
-
-
-Para apresentar essas questões ao cliente, desenvolvi um dashboard interativo que mostra todos esses dados filtrados de acordo com sua necessidade.
-
-![image](https://github.com/user-attachments/assets/5b8e382a-23d2-417a-ba00-e1b333eac62a)
-
-
-![image](https://github.com/user-attachments/assets/57a95819-906b-41ac-9a7b-af332bc0a812)
-
-
-
-
-
-
 
 
 
