@@ -138,7 +138,7 @@ GROUP BY Aval_Performance
 ORDER BY Media_Salario DESC;
 
 -- ----------------------------------------------------------------
--- IMPACTO DOS TREINAMENTOS MO SALÁRIO E SATISFAÇÃO
+-- IMPACTO DOS TREINAMENTOS NO SALÁRIO E SATISFAÇÃO
 
 SELECT
 	Numero_Treinamentos_Ano_Anterior AS Num_Treinamentos,
@@ -160,7 +160,7 @@ WHERE Nivel_Satisfacao_trabalho = 4 AND Disponivel_Hora_extra = 'S'
 ORDER BY Id_Funcionario;
 
 -- --------------------------------------------------------------------------
--- ANÁLISE DE FUNCIONÁRIOS COM MENOS DE 5 ANOS DE EXPERIÊNCIA (QUANTIDADE E SALÁRIO MÉDIO)
+-- ANÁLISE DE FUNCIONÁRIOS COM MENOS DE 3 ANOS DE EXPERIÊNCIA (QUANTIDADE E SALÁRIO MÉDIO)
 
 -- CONSULTA 1:
 SELECT
@@ -170,14 +170,14 @@ SELECT
     Numero_Treinamentos_Ano_Anterior,
     Aval_Performance
 FROM datasetrh
-WHERE Anos_Experiencia < 5;
+WHERE Anos_Experiencia < 3;
 
 -- CONSULTA 2:
 SELECT
 	COUNT(Id_Funcionario) AS Qtd_Funcionarios,
     ROUND(AVG(Salario_Mensal), 2) AS Media_Salarial
 FROM datasetrh
-WHERE Anos_Experiencia < 5;
+WHERE Anos_Experiencia < 3;
 
 -- ----------------------------------------------------------
 -- RELAÇÃO ENTRE CATEGORIAS DE ENVOLVIMENTO E MÉDIA SATISFAÇÃO
