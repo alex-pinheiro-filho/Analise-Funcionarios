@@ -14,25 +14,27 @@ FROM datasetrh;
 
 SELECT
 	Funcao,
-	AVG(Nivel_Satisfacao_Trabalho) AS Media_satisfacao 
+	ROUND(AVG(Nivel_Satisfacao_Trabalho), 2) AS Media_Satisfacao 
 FROM datasetrh
 GROUP BY Funcao
-ORDER BY Media_satisfacao DESC;
+ORDER BY Media_Satisfacao DESC;
 
 -- MÉDIA SALARIO POR FUNÇÃO
 
 SELECT
 	Funcao,
-	ROUND(AVG(Salario_Mensal), 2) AS Média_Salario
+	ROUND(AVG(Salario_Mensal), 2) AS Media_Salario
 FROM datasetrh
-GROUP BY Funcao;
+GROUP BY Funcao
+ORDER BY Media_Salario DESC;
 
 -- 10 MAIORES SALÁRIOS
 
 SELECT
 	Id_Funcionario,
     Funcao,
-    Salario_Mensal
+    Salario_Mensal,
+    Nivel_Satisfacao_Trabalho
 FROM datasetrh
 ORDER BY Salario_Mensal DESC
 LIMIT 10;
