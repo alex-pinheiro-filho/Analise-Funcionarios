@@ -8,17 +8,19 @@ A empresa está buscando compreender melhor o perfil e o desempenho de seus func
 
 A empresa quer entender como a satisfação no trabalho e os salários variam entre diferentes funções. Isso ajuda a identificar funções onde os funcionários estão mais satisfeitos e se a remuneração está alinhada com a satisfação.
 
-Média de satisfação por função:        -  -  -  -  -  -  -         Média salarial por função:
+Média de satisfação por função:        
 
-![image](https://github.com/user-attachments/assets/dd469758-cb44-4203-bc20-c365e88ef714)        -  -  -  -  -          ![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
+![image](https://github.com/user-attachments/assets/dd469758-cb44-4203-bc20-c365e88ef714)      
 
+Média salarial por função:
 
+![image](https://github.com/user-attachments/assets/6633b686-8fa7-43c6-afc3-eef9bbccd3d4)
 
 - Top 10 Funcionários com Maior Salário: 
 
 Identificar os funcionários com os maiores salários ajuda a analisar a relação entre salário, função e satisfação.
 
-![image](https://github.com/user-attachments/assets/7dc6a3d2-08a6-466c-88b5-aab49b536a27)
+![image](https://github.com/user-attachments/assets/b97dfd84-208b-4927-b2dd-af20d24011a6)
 
 -	Avaliação de Funcionários com Baixo Envolvimento:
 
